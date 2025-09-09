@@ -129,4 +129,5 @@ z
 # missing regards of numerical computation
 0/0  #not determined -> NAN
 Inf - Inf  # NAN
+# git hub check
 
